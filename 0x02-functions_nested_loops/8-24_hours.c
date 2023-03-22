@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * void jack_bauer - this prints 24hrs time
  *
