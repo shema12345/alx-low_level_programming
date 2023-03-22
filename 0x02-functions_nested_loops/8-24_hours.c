@@ -1,7 +1,8 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * jack_bauer - prints 24hrs time
+ * void jack_bauer - this prints 24hrs time
  *
  * Return: always 0
  */
@@ -20,7 +21,7 @@ void jack_bauer(void)
 			_putchar(':');
 			_putchar(j / 10 + '0');
 			_putchar(j % 10 + '0');
-			_putchar('\n');
+			_putchar ('\n');
 		}
 	}
 }

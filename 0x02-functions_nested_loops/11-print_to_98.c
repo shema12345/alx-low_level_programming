@@ -1,8 +1,7 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * void print_to_98 - function to print natural numbers
+ * void print_to_98 - function that prints natural numbers
  *
  * @n: function parameter
  *
